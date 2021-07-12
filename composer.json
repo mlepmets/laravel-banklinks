@@ -5,8 +5,8 @@
     "keywords": ["banklinks"],
     "authors": [
         {
-            "name": "Artur Käpp",
-            "email": "arturkp@gmail.com"
+            "name": "Martti Lepmets",
+            "email": "mlepmets@gmail.com"
         }
     ],
     "require": {
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ArturKp\\LaravelBanklinks\\": "src/ArturKp/LaravelBanklinks"
+            "ArturKp\\LaravelBanklinks\\": "src/"
         }
     }
 }
