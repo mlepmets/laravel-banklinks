@@ -1,6 +1,8 @@
 # laravel-banklinks
 
-Original author Artur Käpp (arturkp/laravel-banklinks) which does not exist any longer.
+Original package (arturkp/laravel-banklinks) by Artur Käpp
+
+3.0.3 Update requirements for Laravel 6
 
 3.0.0 Krediidipank -> Coop & remove Solo
 

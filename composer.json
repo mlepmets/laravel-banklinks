@@ -1,6 +1,6 @@
 {
     "name": "mlepmets/laravel-banklinks",
-    "description": "Estonian banklinks for Laravel 5",
+    "description": "Estonian banklinks for Laravel 5/6",
     "license": "MIT",
     "keywords": ["banklinks"],
     "authors": [
@@ -10,11 +10,11 @@
         }
     ],
     "require": {
-        "illuminate/config": "~5.0",
-        "illuminate/support": "~5.0"
+        "illuminate/config": "^6.0",
+        "illuminate/support": "^6.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "4.0.*"
+        "phpunit/phpunit": "^8.0"
     },
     "autoload": {
         "psr-4": {
